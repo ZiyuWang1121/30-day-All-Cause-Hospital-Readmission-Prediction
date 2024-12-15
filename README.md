@@ -3,7 +3,7 @@ Group project for HKU course STAT3612 Statistical Machine Learning (2023 1A, Coo
 Refer to the corresponding kaggle competition for more details: [30-day All-Cause Hospital Readmission Prediction](https://www.kaggle.com/competitions/30-day-all-cause-hospital-readmission-prediction)
 
 ## Workload Distribution
-:smile: The authors declared that the workload is evenly distributed.
+The authors declared that the workload is evenly distributed.
 
 ## Testing Instruction
 Please refer to the following steps to evaluate our best-performing model:  
